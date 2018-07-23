@@ -1,0 +1,63 @@
+html, body {
+	height: 100%;
+	margin: 0;
+	color: white;
+}
+body {
+	text-align: center;
+	background-color: yellow;
+}
+ul {
+	list-style-type: none;
+}
+.factList {
+	background-color: blue;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-align: center;
+}
+
+header {
+	padding: 20px 100px 20px 100px;
+	background-color: red;
+	font-size: 2em;
+	text-decoration: underline;
+	color: black;
+	font-family: 'Oswald', sans-serif;
+}
+h1 {
+	border: solid 1px white;
+	background-color: yellow;
+	padding: 10px 20px 10px 20px;
+}
+#li1 {
+	text-align: left;
+}
+
+#li2 {
+	text-align: center;
+	padding-right: 30px;
+}
+
+#li3 {
+	text-align: right;
+	padding-right: 30px;
+}
+
+li {
+	padding: 10px 10px 10px 10px;
+	margin: 10px 40px 10px 0px;
+	background-color: red	;
+	border: solid 1px white;
+}
+
+footer {
+	padding-top: 90px;
+}
+
+p {
+	border: solid 1px white;
+	padding: 10px 20px 10px 20px;
+	background-color: blue;
+	font-style: italic;
+}
